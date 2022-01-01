@@ -1,7 +1,5 @@
 # Frontend Mentor - Social proof section
 
-![Design preview for the Social proof section coding challenge](./screenshots/desktop.png)
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -23,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./myscreenshots/desktop.png)
+![Desktop Screenshot](./screenshots/desktop.png)
 
 ### Links
 
